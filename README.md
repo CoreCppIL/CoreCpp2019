@@ -8,11 +8,11 @@ and code from [Core C++ 2019](http://corecpp.org).
 
 ## Keynotes
 
- - [The Best Parts of C++]() by Jason Turner
+ - [The Best Parts of C++](Keynotes\Jason_The_Best_Parts_Of_C++.pdf) by Jason Turner
  
 ## Presentations
 
- - [Coroutines - the future of future (and more)](-.pdf) by Yehezkel Bernat
+ - [Coroutines - the future of future (and more)](Presentations/Yehezkel_Coroutines.pdf.pdf) by Yehezkel Bernat
  
 ## Lightning Talks
 
