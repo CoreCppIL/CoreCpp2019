@@ -24,7 +24,7 @@ and code from [Core C++ 2019](http://corecpp.org).
  - [Clang Concepts](Presentations/Saar_clang_concepts.pdf) by Saar Raz
  - [C++ ecosystem: For better, for worse](Presentations/Anastasia_Cpp_ecosystem.pdf) by Anastasia Kazakova
  - [C/C++ Memory Model](Presentations/Yossi_Memory_Model.pdf) by Yossi Moalem
- - [High Frequency Trading and Ultra Low Latency development techniques](Presentations/) by Nimrod Sapir
+ - [High Frequency Trading and Ultra Low Latency development techniques](Presentations/Nimrod_High_Frequency_Trading.pdf) by Nimrod Sapir
  - [The Dawn Of A New Error](Presentations/) by Phil Nash
  - [Behind Enemy Lines - Reverse Engineering C++ in Modern Ages](Presentations/Gal_Behind_Enemy_Lines_Reverse_Engineering_Cpp_in_Modern_Ages.pdf) by Gal Zaban
  - [Initialisation in modern C++](Presentations/Timur_Initialisation_in_modern_C++.pdf) by Timur Doumler
