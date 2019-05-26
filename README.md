@@ -21,7 +21,7 @@ and code from [Core C++ 2019](http://corecpp.org).
  - [Compile Time Regular Expressions](Presentations/) by Hana Dusíková  
  - [The C++ Execution Model](Presentations/) by Bryce Adelstein Lelbach
  - [C++ Programming for the Heap-Deprived: Solving common problems without dynamic memory allocation](Presentations/Asaf_C++_Programming_for_the_Heap-Deprived.pdf) by Asaf Helfer 
- - [Clang Concepts](Presentations/) by Saar Raz
+ - [Clang Concepts](Presentations/Saar_clang_concepts.pdf) by Saar Raz
  - [C++ ecosystem: For better, for worse](Presentations/Anastasia_Cpp_ecosystem.pdf) by Anastasia Kazakova
  - [C/C++ Memory Model](Presentations/Yossi_Memory_Model.pdf) by Yossi Moalem
  - [High Frequency Trading and Ultra Low Latency development techniques](Presentations/) by Nimrod Sapir
@@ -33,4 +33,4 @@ and code from [Core C++ 2019](http://corecpp.org).
  
 ## Lightning Talks
 
-- ... 
+- [∞ 𝐂++++++…](Presentations/Saar_infinite_cpp_slides.pdf) by Saar Raz
