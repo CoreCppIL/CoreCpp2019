@@ -1,15 +1,14 @@
 # Core C++ 2019 Presentation Materials
 ======================================
 
-https://github.com/CoreCppIL/CoreCpp2019 is the canonical location for presentations
-and code from [Core C++ 2019](http://corecpp.org).
+Presentations and code from [Core C++ 2019](http://corecpp.org).
 
 # Index of Materials
 
 ## Keynotes
 
  - [The Best Parts of C++](Keynotes/Jason_The_Best_Parts_Of_C++.pdf) by Jason Turner
- - [Modules are Coming]() by Bryce Adelstein Lelbach
+ - Modules are Coming by Bryce Adelstein Lelbach
  
 ## Presentations
 
