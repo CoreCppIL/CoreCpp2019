@@ -12,7 +12,7 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
  
 ## Presentations
 
- - [Coroutines - the future of future (and more)](Presentations/Yehezkel_Coroutines.pdf) by Yehezkel Bernat
+ - [Coroutines - the future of future (and more)](https://github.com/YehezkelShB/CoreCpp2019-Coroutines) by Yehezkel Bernat
  - [C++: λ Demystified](https://www.andreasfertig.info/talks.html) by Andreas Fertig
  - [179 range algorithms in less than an hour](Presentations/Dvir_179_range_algorithms_in_less_than_an_hour.pdf) by Dvir Yitzchaki
  - [Virtual Tables OR The Overhead of Magic](Presentations/Inbal_Virtual_Tables_OR_The_Overhead_Of_Magic.pdf) by Inbal Levi  
