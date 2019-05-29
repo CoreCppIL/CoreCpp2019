@@ -8,7 +8,7 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
 ## Keynotes
 
  - [The Best Parts of C++](Keynotes/Jason_The_Best_Parts_Of_C++.pdf) by Jason Turner
- - Modules are Coming by Bryce Adelstein Lelbach
+ - [Modules are Coming](Keynotes/Bryce_Modules_Are_Coming.pdf) by Bryce Adelstein Lelbach
  
 ## Presentations
 
@@ -18,7 +18,7 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
  - [Virtual Tables OR The Overhead of Magic](Presentations/Inbal_Virtual_Tables_OR_The_Overhead_Of_Magic.pdf) by Inbal Levi  
  - Understanding Lvalues and Rvalues by Dan Saks
  - [Compile Time Regular Expressions](https://compile-time.re/corecpp-2019/#/) by Hana Dusíková  
- - The C++ Execution Model by Bryce Adelstein Lelbach
+ - [The C++ Execution Model](Presentations/Bryce_C++_Execution_Model.pdf) by Bryce Adelstein Lelbach
  - [C++ Programming for the Heap-Deprived: Solving common problems without dynamic memory allocation](Presentations/Asaf_C++_Programming_for_the_Heap-Deprived.pdf) by Asaf Helfer 
  - [Clang Concepts](Presentations/Saar_clang_concepts.pdf) by Saar Raz
  - [C++ ecosystem: For better, for worse](Presentations/Anastasia_Cpp_ecosystem.pdf) by Anastasia Kazakova
