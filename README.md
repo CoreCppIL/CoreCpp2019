@@ -32,4 +32,5 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
  
 ## Lightning Talks
 
-- [∞ 𝐂++++++…](Presentations/Saar_infinite_cpp_slides.pdf) by Saar Raz
+- [∞ 𝐂++++++…](LightningTalks/Saar_infinite_cpp_slides.pdf) by Saar Raz
+- [Form an Israeli C++ National Body](bryce_adelstein_lelbach_form_an_israeli_cpp_national_body.pdf)  by Bryce Adelstein Lelbach
