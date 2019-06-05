@@ -32,5 +32,15 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
  
 ## Lightning Talks
 
-- [∞ 𝐂++++++…](LightningTalks/Saar_infinite_cpp_slides.pdf) by Saar Raz
-- [Form an Israeli C++ National Body](bryce_adelstein_lelbach_form_an_israeli_cpp_national_body.pdf)  by Bryce Adelstein Lelbach
+1. [C/C++ is very similar to Java/JavaScript](LightningTalks/1-Eran_Gilad-C_C++_is_very_similar_to_Java_JavaScript.pdf) by Eran Gilad
+1. [C++ is NOT a Hammer](LightningTalks/2-Greg_Ravikovich_-C++IsNotAHammer.pdf) by Greg Ravikovich
+1. [Who includes me?](LightningTalks/3-Miri_Kogan-coreCPP_headersGraph.pdf) by Miri Kogan
+1. [∞ 𝐂++++++…](LightningTalks/4-Saar_infinite_cpp_slides.pdf) by Saar Raz
+1. [Interview Question](LightningTalks/4.25-Rafi_Wiener.pdf) by Rafi Wiener
+1. [Arguments over Arguments](LightningTalks/4.5-Adi_Shavit-ArgumentsOverArguments.pdf) by Adi Shavit
+1. [Keep Your Friends under Control](LightningTalks/5-Phil_Nash-friends.pdf) by Phil Nash
+1. [What’s in the box?](LightningTalks/6-Phil_Nash-whats_in_the_box.pdf) by Phil Nash
+1. [How to pass (my) candidate screening](LightningTalks/7-Nimrod_Sapir-Lightning_talk-candidate_screening.pdf) by Nimrod Sapir
+1. Where do  you want to put the comma, and other (un)important skills by Meir Komar
+1. [A Letter to My Descendents](LightningTalks/9-Meir_Komar-A_letter_to_my_descendents.pdf) by Meir Komar
+1. [Form an Israeli C++ National Body](bryce_adelstein_lelbach_form_an_israeli_cpp_national_body.pdf)  by Bryce Adelstein Lelbach
