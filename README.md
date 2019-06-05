@@ -43,4 +43,4 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
 1. [How to pass (my) candidate screening](LightningTalks/7-Nimrod_Sapir-Lightning_talk-candidate_screening.pdf) by Nimrod Sapir
 1. Where do  you want to put the comma, and other (un)important skills by Meir Komar
 1. [A Letter to My Descendents](LightningTalks/9-Meir_Komar-A_letter_to_my_descendents.pdf) by Meir Komar
-1. [Form an Israeli C++ National Body](bryce_adelstein_lelbach_form_an_israeli_cpp_national_body.pdf)  by Bryce Adelstein Lelbach
+1. [Form an Israeli C++ National Body](LightningTalks/bryce_adelstein_lelbach_form_an_israeli_cpp_national_body.pdf)  by Bryce Adelstein Lelbach
