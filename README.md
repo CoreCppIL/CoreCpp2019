@@ -16,7 +16,7 @@ Presentations and code from [Core C++ 2019](http://corecpp.org).
  - [C++: λ Demystified](https://www.andreasfertig.info/talks.html) by Andreas Fertig
  - [179 range algorithms in less than an hour](Presentations/Dvir_179_range_algorithms_in_less_than_an_hour.pdf) by Dvir Yitzchaki
  - [Virtual Tables OR The Overhead of Magic](Presentations/Inbal_Virtual_Tables_OR_The_Overhead_Of_Magic.pdf) by Inbal Levi  
- - Understanding Lvalues and Rvalues by Dan Saks
+ - [Understanding Lvalues and Rvalues](Presentations/Dan_Saks_Lvalues_and_Rvalues.pdf) by Dan Saks
  - [Compile Time Regular Expressions](https://compile-time.re/corecpp-2019/#/) by Hana Dusíková  
  - [The C++ Execution Model](Presentations/Bryce_C++_Execution_Model.pdf) by Bryce Adelstein Lelbach
  - [C++ Programming for the Heap-Deprived: Solving common problems without dynamic memory allocation](Presentations/Asaf_C++_Programming_for_the_Heap-Deprived.pdf) by Asaf Helfer 
